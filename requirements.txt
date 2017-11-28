@@ -1,0 +1,7 @@
+genanki==0.4.0
+googletrans==2.2.0
+gTTS==1.2.2
+gTTS-token==1.1.1
+nltk==3.2.5
+six==1.11.0
+urllib3==1.22
